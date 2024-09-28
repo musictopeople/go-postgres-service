@@ -1,0 +1,1 @@
+This is a project I am using to learn how to properly right golang api's using Alex Edwards book.
