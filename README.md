@@ -1,4 +1,4 @@
-This is a project I am using to learn how to properly right golang api's using Alex Edwards book.
+This is a project I am using to learn how to properly right a golang api using Alex Edwards book.
 
 To run on the standard localhost:8000 go to the home directory go-postgres-service and type
 
